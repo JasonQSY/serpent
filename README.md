@@ -1,8 +1,6 @@
 # serpent
 
-Serpent cipher in the AES contest.
-
-Author: Qian Shengyi & Songqun
+Serpent cipher in the AES contest. Used in VE475 challenge 2.
 
 ## Usage
 
